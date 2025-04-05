@@ -22,7 +22,7 @@ body {
   
   /* Navigation Bar */
   nav {
-    background-color: #333;
+    background-color: #e46c0a;
     color: #fff;
     padding: 1rem;
     display: flex;
@@ -73,7 +73,7 @@ body {
   
   /* Footer Styling */
   footer {
-    background-color: #333;
+    background-color: #c5560b;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
